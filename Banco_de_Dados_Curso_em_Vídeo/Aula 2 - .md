@@ -1,0 +1,1 @@
+My SQL é grátis e é Livre. A empresa SAM comprou o mySQL em 2007
