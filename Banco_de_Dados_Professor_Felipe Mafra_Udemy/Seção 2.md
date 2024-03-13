@@ -72,6 +72,20 @@ https://prnt.sc/aul018M9MnZ3
 
 VARCHAR CORTA, O CHAR NÃO CORTA!
 
-# COMPARANDO NUM E ENUM
+# COMPARANDO ENUM E NÚMERICOS
 
 ENUM: https://prnt.sc/4Dp-VJ4evBtY
+
+Ele é um combox com opções para o usuário selecionar!
+
+### Tipos Númericos:
+
+* FLOAT:
+
+FLOAT 10,2 - DEZ CASAS ONDE 2 CASAS SERÃO DEPOIS DA VIRGULA
+FLOAT 7,2 - SETE CASAS ONDE 2 CASAS SERÃO DEPOIS DA VIRGULA 
+
+
+* INT: NUMEROS INTEIROS: 10, 11 - NUMEROS SEM VIRGULA
+
+Utilizamos varchar em telefone e CNPJ, CPJ porque não iremos utilizar eles para fazer calculos futuramente! Por isso utilizamos Varchar para eles!
