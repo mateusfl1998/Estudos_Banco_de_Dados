@@ -64,3 +64,7 @@ Não esqueça do "caractere coringa" que é o %
 Comandos do exercicio:
 
 SELECT * FROM LIVROS
+
+SELECT COUNT(*) AS 'QUANTIDADE DE REGISTROS NA TABELA LIVROS' FROM LIVROS:
+
+SELECT SEXO_DO, COUNT(*) FROM LIVROS, GROUP BY SEXO;
