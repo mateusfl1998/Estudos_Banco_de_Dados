@@ -355,6 +355,19 @@ SELECT SEXO, COUNT(*)
 FROM CLIENTE
 GROUP BY SEXO;
 
+
+
+SELECT SEXO, COUNT(*)
+FROM CLIENTE
+GROUP BY SEXO;
+
+
+
+select sexo, count(*)
+from funcionarios
+group by sexo;
+
+
 /* PERFORMANCE EM OPERADORES LOGICOS */
 
 /* 1 MILHAO DE REGISTROS
